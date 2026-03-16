@@ -7,3 +7,5 @@ def soma(a, b):
 # função de multiplicação
 def multiplicacao(a, b):
     return a * b
+
+print(soma(2,3))
