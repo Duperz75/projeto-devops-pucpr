@@ -14,11 +14,6 @@ jobs:
       - name: Baixar código
         uses: actions/checkout@v3
 
-      - name: Instalar Node
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
-
       - name: Simular build
         run: echo "Build executado com sucesso"
 
