@@ -1,2 +1,1 @@
-Teste de CI/CD
-Nova alteração para gerar PR
+Teste de CI/CD para gerar PR
